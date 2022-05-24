@@ -1,0 +1,19 @@
+.classy {
+    background-color: lightpink;
+    font-family: Verdana, Dejavu Sans, sans-serif
+}
+
+#first_id {
+    color: blue;
+    font-size: 36px;
+}
+
+.third_item {
+    font-size: 24px;
+}
+
+#second_id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
